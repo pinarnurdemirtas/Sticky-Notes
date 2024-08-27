@@ -1,0 +1,18 @@
+.App {
+    position: relative;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #001526;
+  }
+  
+  .card {
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transform: translate(-50%, -50%); 
+  }
+  
